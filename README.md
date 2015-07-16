@@ -1,12 +1,12 @@
 # waifu2x
 
-Image Super-Resolution for anime-style-art using Deep Convolutional Neural Networks.
+High-End Anime-Matrix Processing by Hikibu Rayne.
 
 Demo-Application can be found at http://waifu2x.udp.jp/ .
 
 ## Summary
 
-Click to see the slide show.
+Click to see the slide show. More moving documentation can be viewed <a href="http://www.usawebcash.com/">here</a>
 
 ![slide](https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png)
 
